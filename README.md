@@ -1,0 +1,1 @@
+# barnmanager-automation-tests
